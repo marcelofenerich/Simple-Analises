@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Simple_Analysis
+# Simple Analises
 Analisando por diversão.
 Este Github tem objetivo de registrar meus treinamentos enquanto eu vou me desenolvendo a parte de manipulação,tratamento e modelagem de dados.
 
